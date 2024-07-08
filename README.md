@@ -10,4 +10,3 @@ To continue my learning, I will be embarking on 🌟 Project Vibez 2.0 🌟. Vib
 
 **Socials**
 
-https://img.shields.io/badge/twitter-mohammed__16695-1da1f2.svg?&style=for-the-badge&logo=twitter
