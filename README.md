@@ -6,4 +6,4 @@ To continue my learning, I will be embarking on 🌟 Project Vibez 2.0 🌟. Vib
 
 **Languages and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,postgres,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,js,html,css,bootstrap,figma,postgres)](https://skillicons.dev)
