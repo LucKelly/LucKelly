@@ -1,4 +1,4 @@
-Hey!, I'm Luc 👋
+Hey! I'm Luc 👋
 
 I recently graduated from Le Wagon's (LW) Full Stack Web Dev bootcamp. I'm passionate about the user experience and product design 🎰, and I love the logic used for coding back-end features. 🧰
 
