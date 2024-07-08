@@ -10,6 +10,7 @@ To continue my learning, I will be embarking on 🌟 Project Vibez 2.0 🌟. Vib
 
 **Socials**
 
-![Static Badge](https://img.shields.io/badge/Linkedin-Luc-blue?style=for-the-badge&link=www.linkedin.com%2Fin%2Fluckelly)
+![Static Badge](https://img.shields.io/badge/Luc%20Kelly-black?style=for-the-badge&logo=linkedin&logoColor=blue&link=www.linkedin.com%2Fin%2Fluckelly)
+
 
 
