@@ -2,7 +2,7 @@
 
 I recently graduated from Le Wagon's (LW) Full Stack Web Dev bootcamp. I'm passionate about UX and product design 🎰, and I love the logic used for coding back-end features. 🧰
 
-To continue my learning, I will be doing daily, full-stack challenges on Codewars and CSSBattle. I will also be embarking on 🌟 Project Vibez 2.0 🌟. Vibez is an app designed to help you find a bar to match your vibe. 🚀🍹
+To continue my learning, I will be doing daily, full-stack challenges on Codewars and CSSBattle (you see my repos for these challenges). I will also be embarking on 🌟 Project Vibez 2.0 🌟. Vibez is an app designed to help you find a bar to match your vibe. 🚀🍹
 
 **Languages and Tools**
 
